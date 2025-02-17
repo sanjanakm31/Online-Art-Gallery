@@ -1,0 +1,8 @@
+{
+    "name": "Online-Art-Gallery",
+    "description": "Avibrant online art gallery where you can buy and sell unique artworks, connecting artists with art lovers worldwide",
+    "require": {
+      "php": "^7.4 || ^8.0"
+    }
+  }
+  
